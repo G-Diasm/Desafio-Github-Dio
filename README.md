@@ -1,2 +1,2 @@
-# Desafio-Github-Dio
-Desafio de Projeto da o curso da Dio
+.# Desafio de Criação de Projeto no Git/Github
+Primeiro Repositório no Github.
