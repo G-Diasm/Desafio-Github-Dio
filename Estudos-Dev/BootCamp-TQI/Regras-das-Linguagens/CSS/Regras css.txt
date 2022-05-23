@@ -1,0 +1,17 @@
+Comentário no CSS - /* Aqui coloca o comentário */
+
+Chamar tag no css - nome-da-tag { regra: tag; 
+                                  podem ser várias regras: 1;}
+                                
+                                 
+Chamar uma class no css - .nome-da-classe { regra: class;}
+Chamar um id no css - #nome-do-id { regra: id; }
+
+
+
+Regras: 
+
+font-family: - A fonte da letra.
+
+width: - Largura 
+height: - Altura

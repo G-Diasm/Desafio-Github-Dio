@@ -1,0 +1,19 @@
+1 - Dimensão 
+
+2 - Color
+
+3 - Plano de fundo (Se tiver)
+
+4 - Display, alinhamento (justify, align...)
+
+5 - Configurações do objeto (border, margin)
+
+6 - Filter
+
+7 - Cursor 
+
+8 - Transition 
+
+
+
+  
